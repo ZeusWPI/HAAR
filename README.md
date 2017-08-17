@@ -1,5 +1,5 @@
 # HAAR
-Hydra API Aggregation &amp; Repacking. (name up for [discussion](https://github.com/ZeusWPI/HAAR/issues/1))
+Hydra API Aggregation &amp; Repacking (name up for [discussion](https://github.com/ZeusWPI/HAAR/issues/1)).
 
 ## Purpose
 HAAR is an API aggregation server. It bundles data from the endpoints currently (directly) in use by the Hydra apps.
@@ -20,3 +20,10 @@ We can all do this flexibly and centralized without the need for new builds.
 
 ## Technology
 Up for [discussion](https://github.com/ZeusWPI/HAAR/issues/2).
+
+## Usefull links
+ - [Hydra webpage](https://hydra.ugent.be/)
+ - [Hydra iOS repo](https://github.com/ZeusWPI/hydra-iOS)
+ - [Hydra Android repo](https://github.com/ZeusWPI/hydra-android)
+ - [Hydra shared repo](https://github.com/ZeusWPI/hydra-shared)
+ - [Hydra repo](https://github.com/ZeusWPI/hydra)
