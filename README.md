@@ -25,5 +25,4 @@ Up for [discussion](https://github.com/ZeusWPI/HAAR/issues/2).
  - [Hydra webpage](https://hydra.ugent.be/)
  - [Hydra iOS repo](https://github.com/ZeusWPI/hydra-iOS)
  - [Hydra Android repo](https://github.com/ZeusWPI/hydra-android)
- - [Hydra shared repo](https://github.com/ZeusWPI/hydra-shared)
  - [Hydra repo](https://github.com/ZeusWPI/hydra)
