@@ -38,4 +38,17 @@ Given the lack of controllable intermediary, all caching has to happen locally, 
 
 ### Monitoring
 
+Since no traffic passes between us and the end user, there is no way of monitoring requests, rendering us unable to analyse usage statistics or identify potential issues.
+
 ### Global state
+
+There is a complete lack of a global saved state, unless all data is saved on the clients themselves. This prevents us from easily providing aggregate information, or serving data no longer available on the external API. Relevant to the caching of the last known state, having saved state copied from external sources would remove the immediate dependency on those partners for the time until the data becomes stale.
+
+### Dynamicity
+
+We can add special events now, because it comes from an internal API. The lack of consistency on this matter does prevent us from having the ability to dynamically add or remove data across all endpoints. These are necessities if we want to provide a tailored experience, handle automation failures, or manually add special kinds of data.
+Relevant to the point about dependencies, we are unable to dynamically change endpoints or data transformers.
+
+## Solution proposal
+
+// TODO
