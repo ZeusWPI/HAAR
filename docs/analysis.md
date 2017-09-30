@@ -90,3 +90,8 @@ If we store all data fetched, we create a global overview, allowing us to create
 Present in all other issues mentioned above, the lack of control and dynamicity in our ability to serve data was the key point of this whole endeavour.
 By consistently being in control of all client facing endpoints, we act as if all data is ours, and gain the ability to modify data and extend features as if this was the case.
 On top of that, we could do this all at wish, (in general) without the need to communicate with and rely on external partners.
+
+## Going further
+
+Taking into account the listed problems, and the proposed solution(s), we can create a service that does exactly this.
+A concrete listed of wanted features and functionality is written up [here](./features.md), and an architectural overview can be found [here](./architecture.md).
